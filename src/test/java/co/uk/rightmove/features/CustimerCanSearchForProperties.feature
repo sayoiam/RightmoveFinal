@@ -24,4 +24,5 @@ Feature: Search Functionality
       | Manchester | Within 10 miles | 125,000  | 250,000  | 2      | 4      | Houses   | Last 7 days   |
       | London     | Within 1 mile   | 250,000  | 500,000  | 2      | 4      | Houses   | Last 24 hours |
       | Sheffield  | Within 5 miles  | 125,000  | 200,000  | 3      | 5      | Houses   | Last 7 days   |
+      | Bradford   | Within 5 miles  | 125,000  | 200,000  | 3      | 5      | Houses   | Last 7 days   |
 
